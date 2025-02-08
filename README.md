@@ -5,7 +5,7 @@
 ### 1. You can clone it from github by running following command
 
 ```
-  $ git clone https://github.com/niteshsinghrajput/CRUD-Spring-Boot-JPA-MySQL.git
+  $ git clone https://github.com/chirag640/java-BookStore.git
 ```
 
 ### 2. Import project into eclipse
